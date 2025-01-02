@@ -12,7 +12,7 @@ Este plugin permite a los usuarios subir y establecer una imagen de perfil desde
 
 ### 1. Descarga el Plugin
 
-- Descarga el archivo del plugin desde el siguiente enlace: [Descargar plugin](https://example.com).
+- Descarga el archivo del plugin desde el siguiente enlace: [Descargar plugin](https://github.com/CarrilloJhonatan/woocommerce-profile-picture/archive/refs/heads/main.zip).
 - Guarda el archivo `woocommerce-profile-picture.zip` en tu computadora.
 
 ### 2. Instala el Plugin en WordPress
